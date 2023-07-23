@@ -47,18 +47,18 @@ def matrix_multiply(x, y):
 
 print(banner)
 print("Select operation:")
-print("1. Add")
-print("2. Subtract")
-print("3. Multiply")
-print("4. Divide")
+print("1. Add                   2. Subtract")
+print("3. Multiply              4. Divide")
 print("5. Power")
-print("6. Matrix Add")
-print("7. Matrix Subtract")
-print("8. Matrix Multiply")
+print("")
+print("Matrix Operation:")
+print("1. Matrix Add")
+print("2. Matrix Subtract")
+print("3. Matrix Multiply")
 
 try:
     while True:
-        choice = input("Enter choice (1/2/3/4/5/6/7/8): ")
+        choice = input("Enter choice : ")
 
         if choice in ('1', '2', '3', '4'):
             num1 = float(input("Enter first number: "))
