@@ -7,7 +7,7 @@
   <a href="#related">Related</a> 
 </p>
 
-![screenshot](https://raw.githubusercontent.com/Amca-qt/Calculator-Py/main/images/c.png?token=GHSAT0AAAAAACEI47KS3L5GS7537XPOG5TAZEVTWGA)
+![screenshot](https://raw.githubusercontent.com/Amca-qt/Calculator-Py/main/images/Screenshot%20(469).png)
 
 ## Existing Operations
 
